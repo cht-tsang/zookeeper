@@ -130,3 +130,4 @@ while user != "exit":
     user = input("Which habitat # do you need?")
     if user == "exit":
         print("See you!")
+
